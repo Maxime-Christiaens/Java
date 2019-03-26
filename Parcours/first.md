@@ -250,12 +250,3 @@ public class MyClass {
 Définir le type de donnée passer en paramètres ex: ```String```*
 
 
-
-
-
-
-
-
-
-
-NEXT https://www.w3schools.com/java/java_classes.asp
